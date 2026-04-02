@@ -1,0 +1,22 @@
+/* laptop device */
+@media screen and (max-width:1280px){
+
+}
+/* Tablet device */
+@media screen and (max-width:1024px){
+
+.box{
+    margin: 0;
+}
+.headding{
+    padding: 0 20px;
+}
+}
+/* mobile device up to 425px*/
+@media screen and (max-width:640px) {
+.box-continer {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+}
